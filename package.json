@@ -4,7 +4,8 @@
   "description": "",
   "main": "csv-convert.js",
   "dependencies": {
-    "csvtojson": "^0.5.2"
+    "csvtojson": "^0.5.2",
+    "mongoose": "^4.4.10"
   },
   "devDependencies": {},
   "scripts": {
